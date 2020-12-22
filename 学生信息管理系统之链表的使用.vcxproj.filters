@@ -27,9 +27,6 @@
     <ClCompile Include="student_list.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="testgithub.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="menu.h">
