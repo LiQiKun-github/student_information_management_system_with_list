@@ -143,6 +143,7 @@
     <ClCompile Include="student.cpp" />
     <ClCompile Include="student_list.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="testgithub.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="menu.h" />
